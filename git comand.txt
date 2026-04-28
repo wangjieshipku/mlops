@@ -8,7 +8,7 @@ git init
 
 # Step 2: Add all files and check status
 
-git add.
+git add .
 
 git status
 
